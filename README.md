@@ -17,7 +17,7 @@ ghc <file_name>.hs
 
 ### Run
 ```
-./<file_name>.o
+./<file_name>
 ```
 
 `Ashwin Narayanan S`
