@@ -1,0 +1,1 @@
+main = putStrLn "My First Haskell code."
