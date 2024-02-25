@@ -1,0 +1,12 @@
+Write Haskell programs using recursion to achieve the following: 
+
+GCD of a Number 
+Fibonacci series 
+Product of a list of numbers 
+Reverse a number  
+Sum of n natural numbers 
+Sum of the digits of a number 
+Count the number of zeros in a number 
+Find base exponent using recursion 
+Find product of 2 numbers by recursion (repeated addition) 
+To print hailstone sequence: N = N / 2 // For Even N  and N = 3 * N + 1 // For Odd N 
