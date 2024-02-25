@@ -1,0 +1,7 @@
+1.Obtain a temperature in degrees Fahrenheit from the user.  If the temperature is 80 degrees or more display the message "Go play golf" otherwise, if the temperature is 70 -79 degrees display the message "Put on a jacket", otherwise display the message "It is way too cold."  Perform a desk check using the following values: 95, 72, and 50. 
+
+2.Obtain a name and age from the user.  If the user is 16 or older, output a message indicating they are old enough to drive.  For people under 16, output a message indicating how many years they must wait before they can drive legally.  
+
+3.Obtain from the user an hourly pay rate and the number of hours worked for the week. Calculate and output their weekly pay according to the following: Regular pay is the pay up to 40 hours. Overtime pay is pay for the hours over 40.  Overtime is paid at a   rate of 1.5 times the hourly rate. Gross pay is the sum of the regular pay and the overtime pay.  
+
+4.Lengths of three sides of a triangle a, b, c are given as input. Finds if the triangle is isosceles, equilateral, or scalene. Hint: In an equilateral triangle three sides are equal. In an isosceles triangle two sides are equal. In a scalene triangle three sides are not equal.  
