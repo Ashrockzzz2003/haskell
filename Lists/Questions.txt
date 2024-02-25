@@ -1,0 +1,23 @@
+Write the haskell code, execute and upload the haskell file along with a single word document which contains the output for each problem in the same sequence as questions.
+1. Write a function join that concatenates a list of strings together.
+2. Write a function startEnd that takes in a list of any type and returns a 2-tuple containing the first and last element of the list.
+3. Write function box that takes a list of Int triples, each representing the length, width, and height ofa box in inches. The function returns the total volume of all items as a string in the form "42276inA3"
+4. Write function percentWeight that takes a list of weights and returns a list of percentages of the total weight of all items as strings. For example percentWeight [12, 24, 36,
+48] yields ["10.0%" "20.0%" "30.0%" "40.0%"].
+5. Write a function middle3 that accepts a list and returns a list of just the three middle elements.
+6. Write a Haskell function to find the length of the list
+7. Write a user defined function to concatenate two list into a new list
+8. A Haskell function that reads marks of 'n' students of a class and displays the class average. Also if more than 2 students have marks less than class average, display a suitable message.
+9. A haskell function to find the Number Occurring Odd Number of Times in an list.
+Input :arr= {1, 2, 3, 2, 3, 1, 3}
+Output : 3
+Input {5, 7, 2, 7, 5, 2, 5}
+Output : 5
+10. A Haskell function to display all the duplicates elements in the list.
+11. A Haskell function finds the product of elements of a list.
+12. A Haskell function that reads a list and print the odd numbers in the list.
+13. A Haskell function that reads a list and print the sum of even numbers in the list.
+14. A Haskell function that reads a list and find the smallest element in the list.
+15. A Haskell function that reads a list and print the sum of elements at odd list indices.
+16. A Haskell function that searches for a number (value) in a list and displays an appropriate message. The list of numbers and the value to be searched should be read from the user.
+17. A Haskell function that reads a list and displays the element that comes in the list after a number entered by the user.
