@@ -1,0 +1,18 @@
+1. Find the biggest of two numbers.
+2. Find the smallest of two numbers.
+3. Find the biggest of three numbers.
+4. Check if a number is even or odd.
+5. Check if a number is positive,negative or zero.
+6. Check if a number is divisible by 7.
+7. Check if a given character is vowel,number or any other character.
+8. Change the case of the given alphabet.
+9. Calculate the roots of a quadratic equation.
+10. Convert the single digit number to words.
+11. Calculate the grade of students whose rollno and 3 marks (each out of 100 ) are given.
+Grading is based on average mark.
+ >=80 A
+>=70 B
+ >=60 C
+>=50 D
+ <40 F
+12. Implement a menu driven calculator.
