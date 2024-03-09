@@ -1,0 +1,18 @@
+Please upload as a  single pdf file 
+
+1. Print your address
+2. Find sum, difference, product, quotient and remainder
+3. Convert distance given in km to m
+4. Convert temperature given in Fahrenheit to Celsius.
+5. Convert measurement given in feet to cms
+6. Find the square, cube, square root of the given number
+7. Calculate simple interest
+8. Calculate compound interest
+9. Calculate the volume and surface area of a sphere
+10. Calculate the area of a triangle whose sides are given
+11. Convert the given character to uppercase
+12. Find the ASCII value of the given character
+13. Find the sum of digits of a 3-digit number
+14. Interchange the value of two variables
+15. Interchange the value of two variables without using a 3rd variable
+16. Calculate the displacement S, initial velocity u, acceleration a, time t, S=ut +1/2 at2
